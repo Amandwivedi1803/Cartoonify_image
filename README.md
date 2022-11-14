@@ -1,1 +1,5 @@
 # Cartoonify_image
+#In this porject we will be converting Images into thier cartoonified versions. It is based on Machine Learning and Python. This project allows you to convert in thier cartoonify versions without compromising the quality of the pictures. We convert the image to RGB form and then detect the edges and do greyscaling and then finally converting them into Cartoons.
+we will build one interesting application that will cartoonify the image provided to it. To build this cartoonifyer application we will use python and OpenCV. This is one of the exciting and thrilling applications of Machine Learning. While building this application we will also see how to use libraries like open cv, Tkinter, and all. Here you have to select the image and then the application will convert that image into its cartoon form. Mainly, we build this application using OpenCV and python as the programming languages.
+![image](https://user-images.githubusercontent.com/114828571/201739781-5f7a74f6-93a9-4648-b47e-14fd581ac819.png)
+
